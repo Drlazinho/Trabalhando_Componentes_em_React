@@ -13,7 +13,7 @@ Uma das maiores vantagens do React é a simplificação de funções do JavaScri
 
 **Resultado**
 
-!https://media.giphy.com/media/kqVHCYM3NQdflFjv7K/giphy.gif
+![Alt Text](https://media.giphy.com/media/kqVHCYM3NQdflFjv7K/giphy.gif)
 
 **Dificuldades durante o Aprendizado**
 
