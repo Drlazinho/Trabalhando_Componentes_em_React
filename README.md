@@ -1,7 +1,7 @@
 # Trabalhando Componentes em React :nerd_face:
 **Meu primeiro React**
 
-Projeto de aprendizado desenvolvido durante a Aula "Trabalhando Componentes em React" com Nathaly Souza, uma aplicação com objetivo de aprender os primeiros passos em React, desenvolvendo o uso de listas, botões, e funcionalidades, conceitos de SPA e boas práticas,  utilizando linguagens e ferramentas como:
+Projeto de aprendizado desenvolvido durante a Aula "Trabalhando Componentes em React" com Nathaly Souza, uma aplicação com objetivo de aprender os primeiros passos em React, desenvolvendo o uso de listas, botões, funcionalidades, conceitos de SPA e boas práticas,  utilizando linguagens e ferramentas como:
 
 * HTML
 * CSS
@@ -21,7 +21,7 @@ Não seria classificado como dificuldades, mas como eu já tenho um certo de ní
 
 **Conclusão**
 
-Gostei muito do React, abriu minha mente pra outras possibilidades de projetos de futuros, o que foi aprendido nessa aula foi o básico, mas o suficiente para começar em React, mais tarde terei mais projetos usando React em meus repositórios.
+Gostei muito o desenvolvimento da aplicação usando o React, abriu minha mente pra outras possibilidades de projetos de futuros, o que foi aprendido nessa aula foi o básico, mas o suficiente para começar, mais tarde terei mais projetos usando React em meus repositórios.
 
 
 
